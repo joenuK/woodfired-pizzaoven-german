@@ -1,10 +1,11 @@
 # woodfired-pizzaoven-german
 Anleitung zum Bau eines Holzbackofens für Pizza und Brot
 --------------------------------------------------------
+![Pizzaofen](img/endprodukt/IMG_5557.JPG?raw=true)
 Auf dieser Seite stelle ich meine Skizzen und Materiallisten zur Verfügung, die ich für die Planung und den Bau des Ofens verwendet habe. Mit etwas Kreativität und Geschick sollte es geübten (Hobby-)Handwerkern möglich sein, einen solchen Ofen zu bauen. 
 
 ## Kriterien die ich an den Ofen stellte
-* gutes Design, sollte gut aussehen
+* gutes Design, sollte ansprechend aussehen
 * modularer Aufbau, der HBO besteht ähnlich einem herkömmlichen Gartencheminee aus einzelnen Teilen, die es ermöglichen, den Ofen abzubauen und zu transportieren
 * gute Platzausnutzung, grosse Backfläche bei geringem Aussenvolumen
 * kurze Aufheizzeit
@@ -18,6 +19,3 @@ Auf dieser Seite stelle ich meine Skizzen und Materiallisten zur Verfügung, die
 
 
 
-
-
-![Pizzaofen](doc/draufsicht.jpeg?raw=true)

@@ -2,7 +2,8 @@
 Anleitung zum Bau eines Holzbackofens für Pizza und Brot
 --------------------------------------------------------
 ![Pizzaofen](img/endprodukt/IMG_5557.JPG?raw=true)
-Auf dieser Seite stelle ich meine Skizzen und Materiallisten zur Verfügung, die ich für die Planung und den Bau des Ofens verwendet habe. Mit etwas Kreativität und Geschick sollte es geübten (Hobby-)Handwerkern möglich sein, einen solchen Ofen zu bauen. 
+Auf dieser Seite stelle ich meine Skizzen und Materiallisten zur Verfügung, die ich für die Planung und den Bau des Ofens verwendet habe. Mit etwas Kreativität und Geschick sollte es geübten (Hobby-)Handwerkern möglich sein, einen solchen Ofen zu bauen.  
+Ich komme aus der Mechanik und verfüge über einige Erfahrung bei der Bearbeitung von Holz, was mir beim Bauen der Schalungen geholfen hat. Meine Erfahrungen mit Beton sind dagegen minim. Daher dauerte meine Einarbeitung ins Thema und die anschliessende Planung rund ein halbes Jahr. Die Realisierung dauerte dann weitere drei Monate.
 
 ## Kriterien die ich an den Ofen stellte
 * gutes Design, sollte ansprechend aussehen

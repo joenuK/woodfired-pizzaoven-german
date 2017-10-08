@@ -73,3 +73,12 @@ Daher entschied ich mich für eine Abdeckung aus rostfreiem Blech. Dieses wird e
 Diese Abdeckung ist sehr witterungsbeständig und gibt dem Ofen ein modernes Finish. Weiter ist ein Blech im Gegensatz zu einer Aussenhülle aus Putz viel platzsparender und lässt sich relativ einfach vom Ofen entfernen.
 
 # Fazit
+Nach dem ersten Monat betrieb und den ersten Pizzaabenden fällt das erste Fazit gut aus. Der Ofen hat nach einer Stunde feuern die Temperatur für Pizza. Wenn man auf einer Seite Pizza bäckt und auf der anderen feuert, hat man genügend Platz für eine mittelgrosse Pizza (ca. ø25 cm ). Die Backdauer beträgt ca. 3 Minuten.  
+
+![Pizza](img/endprodukt/thumb_52d3.jpg?raw=true)
+![Pizza](img/endprodukt/thumb_52c9.jpg?raw=true)
+
+Auch das Brotbacken funktioniert. Der Ofen ist nach dem Pizzabacken jedoch noch viel zu heiss und muss erstmals auf rund 200°C bis 250°C abkalten, was bei vollem durchzug etwa eine halbe Stunde dauert. Bei geschlossenem Kamin und vorgestellter Isoliertüre bleibt die Temperatur über mehrere Stunde konstant.  
+Das System mit dem modularen Ofen funktioniert auch ganz gut. In den kleinen Elemente hat es nirgends Risse gegeben, nur in den grösseren Front- und Rückelementen hat es einen vertikalen Riss gegeben. Daher würde ich bei einem weiteren Ofen diese Teile auch mehrteilig machen.  
+
+![Pizza](img/endprodukt/thumb_52c6.jpg?raw=true)
